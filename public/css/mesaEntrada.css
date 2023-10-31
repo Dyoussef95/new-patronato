@@ -1,0 +1,22 @@
+
+/*Boton no se encontraron resultados select2*/
+/* Expand button to all of option */
+.select2-results__option.select2-results__message {
+    padding: 10px;
+  }
+  button#no-results-btn {
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+  }
+
+  /* Make button look like other li elements */
+button#no-results-btn {
+  text-align: left;
+}
+
+/* Make button look like other li elements */
+button#no-results-btn {
+    border: 3;
+    
+  }
