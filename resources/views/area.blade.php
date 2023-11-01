@@ -1,5 +1,6 @@
 @extends('formulario')
 
+
 @section('columns')
     <th scope="col">#</th>
     <th scope="col">Nombre</th>

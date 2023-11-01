@@ -42,3 +42,4 @@ require __DIR__.'/auth.php';
 Route::get('/areas',[AreaController::class, 'index']);
 
 
+
