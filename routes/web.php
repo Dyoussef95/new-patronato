@@ -40,3 +40,5 @@ Route::middleware('auth')->group(function () {
 require __DIR__.'/auth.php';
 
 Route::get('/areas',[AreaController::class, 'index']);
+
+

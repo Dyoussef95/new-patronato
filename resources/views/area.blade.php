@@ -11,7 +11,7 @@
         <td>{!! $area -> id !!}</td>
         <td>{!! $area -> nombre !!}</td>
         <td><button type="button" class="btn btn-success" class="updateButton" onclick="openUpdateForm()">Editar</button>
-            <button type="button" class="btn btn-danger" onclick="">Eliminar</button></td>
+            <button type="button" class="btn btn-danger" onclick="">Elimina</button></td>
     </tr>
     @endforeach
 @endsection
